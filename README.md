@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Durjoy Kumar</h1>
 <h3 align="center">🚀 A Passionate Full Stack Developer from Bangladesh</h3>
 
-<p align="center">
-  <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="50%" alt="Coding GIF" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=durjoykumar177&label=Profile%20Views&color=0e75b6&style=flat" alt="durjoykumar177" />
@@ -30,6 +27,72 @@
 📧 **durjoykumar@gmail.com**  
 
 ---
+
+## 🛠️ Languages & Tools  
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%" style="border: 2px solid #e1e4e8;">
+      <h3>🔹 Programming Languages</h3>
+      <p>
+        <a href="https://www.w3schools.com/c/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+        </a>
+        <a href="https://www.w3schools.com/cpp/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+        </a>
+        <a href="https://www.python.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+        </a>
+      </p>
+    </td>
+    <td align="center" width="50%" style="border: 2px solid #e1e4e8;">
+      <h3>🎨 Frontend Development</h3>
+      <p>
+        <a href="https://reactjs.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+        </a>
+        <a href="https://tailwindcss.com/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+        </a>
+        <a href="https://www.w3schools.com/css/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" style="border: 2px solid #e1e4e8;">
+      <h3>🛠 Backend Development</h3>
+      <p>
+        <a href="https://www.djangoproject.com/" target="_blank">
+          <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
+        </a>
+      </p>
+    </td>
+    <td align="center" width="50%" style="border: 2px solid #e1e4e8;">
+      <h3>💾 Databases</h3>
+      <p>
+        <a href="https://www.postgresql.org" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+        </a>
+        <a href="https://www.mysql.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+        </a>
+        <a href="https://www.sqlite.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ## 📊 Most Used Languages  
 <p align="center">
@@ -67,61 +130,7 @@
 
 ---
 
-## 🛠️ Languages & Tools  
 
-### 🔹 Programming Languages  
-<p align="left">
-  <a href="https://www.w3schools.com/c/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-</p>
-
-### 🔹 Frontend Development  
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-</p>
-
-### 🔹 Backend Development  
-<p align="left">
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" />
-  </a>
-</p>
-
-### 🔹 Databases  
-<p align="left">
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" />
-  </a>
-</p>
-
----
 
 ## 🚀 Let's Collaborate!  
 💡 I'm always open to collaborating on **exciting projects, open-source contributions, and innovative ideas!**  
