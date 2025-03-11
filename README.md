@@ -2,9 +2,10 @@
 <h3 align="center">🚀 A Passionate Full Stack Developer from Bangladesh</h3>
 
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/durjoykumar177/durjoykumar177/main/assets/Banner_2.png" alt="Durjoy Kumar Banner">
-</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DurjoyKumar177/DurjoyKumar177/main/assets/Banner_2.png" alt="Durjoy Kumar Banner">
+</p>
+
 
 
 ---
