@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Durjoy Kumar</h1>
 <h3 align="center">🚀 A Passionate Full Stack Developer from Bangladesh</h3>
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DurjoyKumar177/DurjoyKumar177/main/assets/Banner_2.png" alt="Durjoy Kumar Banner">
-</p>
-
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DurjoyKumar177/DurjoyKumar177/main/assets/Banner_2.png" alt="Durjoy Kumar Banner" width="100%">
+</div>
 
 ---
 
@@ -95,21 +92,22 @@
   </tr>
 </table>
 
+---
 
 ## 📊 Most Used Languages  
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=durjoykumar177&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DurjoyKumar177&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 ---
 
 ## 🏆 GitHub Contributions & Activity  
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durjoykumar177&theme=radical" alt="GitHub Streak" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=DurjoyKumar177&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=durjoykumar177&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DurjoyKumar177&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
@@ -131,8 +129,6 @@
 </p>
 
 ---
-
-
 
 ## 🚀 Let's Collaborate!  
 💡 I'm always open to collaborating on **exciting projects, open-source contributions, and innovative ideas!**  
