@@ -2,9 +2,10 @@
 <h3 align="center">🚀 A Passionate Full Stack Developer from Bangladesh</h3>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=durjoykumar177&label=Profile%20Views&color=0e75b6&style=flat" alt="durjoykumar177" />
-</p>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/durjoykumar177/durjoykumar177/main/assets/Banner_2.png" alt="Durjoy Kumar Banner">
+</h1>
+
 
 ---
 
